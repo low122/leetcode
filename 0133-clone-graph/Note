@@ -1,0 +1,11 @@
+Learning: Hashmap and Graph (undirected)
+
+The overall approach I achieved was marked the visited node by adding to the new hashmap as a value, and current node as a key. (currNode, newNode)
+if (newHashMap.containsKey(currNode)) {
+    return newHashMap.get(currNode); // to get the corresponding node which is newNode
+}
+Add the newNode into the newHashMap
+For loop to loop all the arraylist, and recursive call.
+for ... {
+    newNode.neighbors.add(cloneGraph(neighbor)); // this is the recursive call;
+}

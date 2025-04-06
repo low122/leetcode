@@ -26,17 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

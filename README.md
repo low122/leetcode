@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/low122/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/low122/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/low122/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

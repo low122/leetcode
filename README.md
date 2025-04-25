@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Array
@@ -76,6 +77,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/low122/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/low122/leetcode/tree/master/0077-combinations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

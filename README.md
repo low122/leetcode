@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/low122/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/low122/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/low122/leetcode/tree/master/0210-course-schedule-ii) |
@@ -38,17 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/low122/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/low122/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Sorting
 |  |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/low122/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/low122/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |

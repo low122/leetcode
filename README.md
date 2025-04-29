@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/low122/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Array
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/low122/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

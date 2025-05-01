@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/low122/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/low122/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/low122/leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/low122/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -92,8 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/low122/leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/low122/leetcode/tree/master/0071-simplify-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/low122/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

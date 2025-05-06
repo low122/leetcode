@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/low122/leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/low122/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/low122/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/low122/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/low122/leetcode/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/low122/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/low122/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/low122/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack

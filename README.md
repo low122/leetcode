@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/low122/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/low122/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0203-remove-linked-list-elements](https://github.com/low122/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
@@ -131,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/low122/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/low122/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/low122/leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/low122/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/low122/leetcode/tree/master/0071-simplify-path) |

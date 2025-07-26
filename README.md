@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/low122/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/low122/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Array
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/low122/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/low122/leetcode/tree/master/0086-partition-list) |
+| [0151-reverse-words-in-a-string](https://github.com/low122/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |

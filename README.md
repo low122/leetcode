@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/low122/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/low122/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/low122/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/low122/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/low122/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/low122/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/low122/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/low122/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/low122/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/low122/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/low122/leetcode/tree/master/0120-triangle) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/low122/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/low122/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/low122/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/low122/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |

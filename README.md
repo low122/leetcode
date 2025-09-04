@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/low122/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/low122/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/low122/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0289-game-of-life](https://github.com/low122/leetcode/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/low122/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/low122/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/low122/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/low122/leetcode/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/low122/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Sorting
 |  |
@@ -199,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/low122/leetcode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/low122/leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->

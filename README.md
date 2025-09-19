@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/low122/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/low122/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/low122/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/low122/leetcode/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/low122/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/low122/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/low122/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/low122/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/low122/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/low122/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/low122/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/low122/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Linked List
 |  |
 | ------- |

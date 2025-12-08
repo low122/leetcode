@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/low122/leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/low122/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0443-string-compression](https://github.com/low122/leetcode/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/low122/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/low122/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/low122/leetcode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/low122/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/low122/leetcode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |

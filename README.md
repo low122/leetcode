@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/low122/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/low122/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/low122/leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/low122/leetcode/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/low122/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -171,9 +172,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/low122/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/low122/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/low122/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0649-dota2-senate](https://github.com/low122/leetcode/tree/master/0649-dota2-senate) |
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/low122/leetcode/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/low122/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |

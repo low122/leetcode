@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/low122/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/low122/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/low122/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/low122/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Backtracking
 |  |
 | ------- |
